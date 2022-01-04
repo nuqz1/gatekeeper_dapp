@@ -1,4 +1,4 @@
-# gatekeeper_dapp
+# gatekeeper tokencreation
 Automatic Gatekeeper Tokencreation for CMv2 (Candymachine V2)
 
 1. Create a basic react app and replace the contents off App.js and run it locally
