@@ -11,3 +11,5 @@ Automatic Gatekeeper Tokencreation for CMv2 (Candymachine V2)
 I was too lazy to create a all in one solution because the pre-creation of the tokens could and is now easily fixed by CMv2. However, i still believe that having too many holders for an NFT is a bad thing. Sooo... have fun with this.
 
 If you do not understand how this works, I don't really care and you should not be looking further into it.
+
+Donations: DAxp6aXARQrAguVv9eCg65j3XBMM1Ztajac1azHPaaia
